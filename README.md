@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Molera Pascual</h1>
 <h3 align="center">A passionate Python developer from Spain</h3>
 
-- 🔭 I’m currently working with [Alauda Ingenieria](https://www.alaudaingenieria.es/)
+- 🔭 I’m currently working at [Alauda Ingenieria](https://www.alaudaingenieria.es/)
 
-- 🌱 I’m currently learning **Front-End**
+- 🌱 I’m currently learning **Front-End Development** (React, JavaScript, HTML/CSS)
 
 - 📫 How to reach me **jmolera@alaudaingenieria.es**
 
